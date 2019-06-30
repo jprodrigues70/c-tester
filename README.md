@@ -13,7 +13,7 @@ Finally, the 'diff.sh' and 'run.sh' files and the 'a.out' executable of your pro
 To run, you can do:
 
 ```
-./run.sh; .diff.sh;
+./run.sh; ./diff.sh;
 ```
 
 Struct:
@@ -46,7 +46,7 @@ Por fim, os arquivos 'diff.sh' e 'run.sh' e o executável 'a.out' do seu program
 
 Para rodar, você pode fazer:
 ```
-./run.sh; .diff.sh;
+./run.sh; ./diff.sh;
 ```
 Organização dos arquivos:
 
