@@ -19,17 +19,29 @@ To run, you can do:
 Struct:
 
 .
+
 ├── correct-output
+
 │   └── test-1
+
 |       └── sometest.out
+
 ├── input
+
 |   └── test-1
+
 |       └── sometest.in
+
 ├── output
+
 │   └── test-1
+
 |       └── sometest.out
+
 ├── a.out
+
 ├── diff.sh
+
 └── run.sh
 
 ### PT
@@ -51,15 +63,27 @@ Para rodar, você pode fazer:
 Organização dos arquivos:
 
 .
+
 ├── correct-output
+
 │   └── test-1
+
 |       └── sometest.out
+
 ├── input
+
 |   └── test-1
+
 |       └── sometest.in
+
 ├── output
+
 │   └── test-1
+
 |       └── sometest.out
+
 ├── a.out
+
 ├── diff.sh
+
 └── run.sh
